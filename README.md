@@ -23,13 +23,8 @@ Suppose you are working for a company as a Data Scientist. Your company is commi
 
 •	Choose the metrics for the model evaluation 
 
-#Data
-The dataset for this project can be accessed by clicking the link provided below.
-Propensify.zip
-
-•	Try multiple classification models and choose the best one.
 •	Model Selection, Training, Predicting and Assessment 
+
 •	Hyperparameter Tuning/Model Improvement 
-•	Please add a column to the testingCandidate.csv file. In this column, for each observation indicate a 1 (yes) or a 0 (no) whether you wish to market to that candidate.
-•	Model deployment plan. 
+
 
